@@ -1,5 +1,6 @@
-# FG2024_Bidirectional_Encoder
+# BiDiE_FG2024
 Official code for paper: Multi-View Consistent 3D GAN Inversion via Bidirectional Encoder (The 18th IEEE International Conference on Automatic Face and Gesture Recognition)
+The abbreviation of this project is BiDiE (Bidirectional Encoder)
 
 ## Environment
 The environment used in this paper: [env.txt](https://github.com/WuHaoZhan2000/FG2024_Bidirectional_Encoder/blob/main/environment/env.txt)  
