@@ -23,7 +23,7 @@ We also thank these open source projects: [U<sup>2</sup>-Net](https://github.com
 ## Citation
 If you use this "Bidirectional_Encoder" / "Sketch Dataset" / "Sketch Synthesis Algorithm" for your research, please cite our paper
 ```
-@inproceedings{wu_2024_Bidirectional_Encoder,
+@inproceedings{wu_2024_BiDiE,
   title={Multi-View Consistent 3D GAN Inversion via Bidirectional Encoder},
   author={Haozhan Wu, Hu Han, Shiguang Shan, Xilin Chen},
   booktitle={The 18th IEEE International Conference on Automatic Face and Gesture Recognition, 2024. Proceedings.},
