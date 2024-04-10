@@ -16,9 +16,9 @@ Sketch Synthesis Algorithm: [/Bidirectional_Encoder/gen_sketch](https://github.c
 Synthesized Sketch Dataset: [Sketch-BiDiE](https://drive.google.com/drive/folders/185CkrvyEZsGN4Yyqqv1FQMA4Z-NyTRqt?usp=drive_link) (decompression password: BiDiE-FG2024)
 
 ## Acknowledgments
-This code borrows from: [EG3D](https://github.com/NVlabs/eg3d), [pSp](https://github.com/eladrich/pixel2style2pixel), [e4e](https://github.com/omertov/encoder4editing)  
+This code borrows from: [EG3D](https://github.com/NVlabs/eg3d), [pSp](https://github.com/eladrich/pixel2style2pixel), [e4e](https://github.com/omertov/encoder4editing) ...  
 We also thank these open source projects: [U<sup>2</sup>-Net](https://github.com/huangmozhilv/u2net_torch), [Facer](https://github.com/FacePerceiver/facer), [Deep3DFaceRecon_pytorch
-](https://github.com/sicxu/Deep3DFaceRecon_pytorch) ...
+](https://github.com/sicxu/Deep3DFaceRecon_pytorch), [EG3D-projector](https://github.com/oneThousand1000/EG3D-projector) ...
 
 ## Citation
 If you use this "Bidirectional_Encoder" / "Sketch Dataset" / "Sketch Synthesis Algorithm" for your research, please cite our paper
