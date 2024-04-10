@@ -12,7 +12,7 @@ Test Single-View Reconstruction: [/Bidirectional_Encoder/scripts/test_psp20_enco
 Test Multi-View Consistency: [/Bidirectional_Encoder/scripts/test_psp20_3D_multi_loop.py](https://github.com/WHZMM/BiDiE/blob/main/scripts/test_psp20_3D_multi_loop.py)
 
 ## Sketch Synthesis Algorithm and Synthesized Sketch Dataset
-Sketch Synthesis Algorithm: [/Bidirectional_Encoder/gen_sketch](https://github.com/WHZMM/BiDiE/gen_sketch) (This code coming soon, before July 2024)  
+Sketch Synthesis Algorithm: [/Bidirectional_Encoder/gen_sketch](https://github.com/WHZMM/BiDiE/blob/main/gen_sketch) (This code coming soon, before July 2024)  
 Synthesized Sketch Dataset: [Sketch-BiDiE](https://drive.google.com/drive/folders/185CkrvyEZsGN4Yyqqv1FQMA4Z-NyTRqt?usp=drive_link) (decompression password: BiDiE-FG2024)
 
 ## Acknowledgments
