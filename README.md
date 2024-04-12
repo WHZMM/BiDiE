@@ -5,7 +5,7 @@ Official code for paper: Multi-View Consistent 3D GAN Inversion via ***Bidi***re
 The environment used in this paper: [env.txt](https://github.com/WHZMM/BiDiE/blob/main/environment/env.txt)  
 We strongly recommend that you successfully build [EG3D](https://github.com/NVlabs/eg3d) env first, and then build this paper's env based on it.
 
-## Train and test Bidirectional Encoder
+## Train and test **Bidi**rectional **E**ncoder
 Train: [/Bidirectional_Encoder/scripts/train_hybrid.py](https://github.com/WHZMM/BiDiE/blob/main/scripts/train_hybrid.py)  
 Test Single-View Reconstruction: [/Bidirectional_Encoder/scripts/test_psp20_encode_loop.py](https://github.com/WHZMM/BiDiE/blob/main/scripts/test_psp20_encode_loop.py)  
 Test Multi-View Consistency: [/Bidirectional_Encoder/scripts/test_psp20_3D_multi_loop.py](https://github.com/WHZMM/BiDiE/blob/main/scripts/test_psp20_3D_multi_loop.py)
@@ -20,7 +20,7 @@ We also thank these open source projects: [U<sup>2</sup>-Net](https://github.com
 ](https://github.com/sicxu/Deep3DFaceRecon_pytorch), [EG3D-projector](https://github.com/oneThousand1000/EG3D-projector) ...
 
 ## Citation
-If you use this "Bidirectional_Encoder" / "Sketch Dataset" / "Sketch Synthesis Algorithm" for your research, please cite our paper
+If you use this "***Bidi***rectional ***E***ncoder" / "BiDiE Sketch Dataset" / "BiDiE Sketch Synthesis Algorithm" for your research, please cite our paper
 ```
 @inproceedings{wu_BiDiE_FG2024,
   title={Multi-View Consistent 3D GAN Inversion via Bidirectional Encoder},
