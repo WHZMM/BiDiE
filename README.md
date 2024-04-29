@@ -16,7 +16,7 @@ Synthesized Sketch Dataset: [Sketch-BiDiE](https://drive.google.com/drive/folder
 
 ## Acknowledgments
 This code borrows from: [EG3D](https://github.com/NVlabs/eg3d), [pSp](https://github.com/eladrich/pixel2style2pixel), [e4e](https://github.com/omertov/encoder4editing) ...  
-We also thank these open source projects: [U<sup>2</sup>-Net](https://github.com/huangmozhilv/u2net_torch), [Facer](https://github.com/FacePerceiver/facer), [Deep3DFaceRecon_pytorch
+We also thank these open source projects: [U<sup>2</sup>-Net](https://github.com/xuebinqin/U-2-Net), [Facer](https://github.com/FacePerceiver/facer), [Deep3DFaceRecon_pytorch
 ](https://github.com/sicxu/Deep3DFaceRecon_pytorch), [EG3D-projector](https://github.com/oneThousand1000/EG3D-projector) ...
 
 ## Citation
