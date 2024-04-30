@@ -9,6 +9,6 @@
 # The web link is: https://github.com/xuebinqin/U-2-Net
 # They provide an image segmentation model for removing background from human images.
 # In the resulting mask images, the human area is white and the background area is black.
-# Store the mask images in the folder "bg_mask"
+# Save the mask images in the folder "bg_mask"
 
 # You can also use other models to obtain masks.
