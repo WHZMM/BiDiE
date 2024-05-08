@@ -4,7 +4,7 @@
 
 # In this step, texture information is extracted from the input image.
 # This will be used in subsequent steps to form the texture part of the face sketch.
-# # Store the outline images in the folder "texture"
+# # Store the texture images in the folder "texture"
 
 # There is a hyperparameter here that you can modify according to your needs.
 
