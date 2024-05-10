@@ -12,6 +12,7 @@ Test Multi-View Consistency: [/Bidirectional_Encoder/scripts/test_psp20_3D_multi
 
 ## Sketch Synthesis Algorithm and Synthesized Sketch Dataset
 Sketch Synthesis Algorithm: [/Bidirectional_Encoder/gen_sketch](https://github.com/WHZMM/BiDiE/blob/main/gen_sketch) (There are 5 steps in total, please follow the order)  
+![Sketch Synthesis Algorithm](./gen_sketch/Sketch_Synthesis_Algorithm.jpg)
 Synthesized Sketch Dataset: [Sketch-BiDiE](https://drive.google.com/drive/folders/185CkrvyEZsGN4Yyqqv1FQMA4Z-NyTRqt?usp=drive_link) (decompression password: BiDiE-FG2024)
 
 ## Acknowledgments
