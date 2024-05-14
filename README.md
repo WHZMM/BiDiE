@@ -2,10 +2,7 @@
 Official code for paper:  
 Multi-View Consistent 3D GAN Inversion via ***Bidi***rectional ***E***ncoder  
 Haozhan Wu, Hu Han, Shiguang Shan, and Xilin Chen  
-Key Laboratory of Intelligent Information Processing, Chinese Academy of Sciences (CAS)  
-Institute of Computing Technology, CAS, Beijing 100190, China  
-University of the Chinese Academy of Sciences, Beijing 100049, China  
-(The 18th IEEE International Conference on Automatic ***F***ace and ***G***esture Recognition)  
+The 18th IEEE International Conference on Automatic ***F***ace and ***G***esture Recognition 
 
 ## Environment
 The environment used in this paper: [env.txt](https://github.com/WHZMM/BiDiE/blob/main/environment/env.txt)  
