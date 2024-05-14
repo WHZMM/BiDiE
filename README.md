@@ -14,7 +14,7 @@ Test Multi-View Consistency: [/Bidirectional_Encoder/scripts/test_psp20_3D_multi
 Sketch Synthesis Algorithm: [/Bidirectional_Encoder/gen_sketch](https://github.com/WHZMM/BiDiE/blob/main/gen_sketch) (There are 5 steps in total, please follow the order)  
 ![Sketch Synthesis Algorithm](./gen_sketch/Sketch_Synthesis_Algorithm.jpg)
 Synthesized Sketch Dataset: [Sketch-BiDiE](https://drive.google.com/drive/folders/185CkrvyEZsGN4Yyqqv1FQMA4Z-NyTRqt?usp=drive_link) (decompression password: BiDiE-FG2024)
-(Currently only the 512x512 cropped version is available, the high-resolution version will be uploaded soon, before June 2024)
+(Currently only the 512x512 EG3D-cropped version is uploaded. You can use the above open source algorithm to synthesize sketches from any dataset of face images)
 
 ## Acknowledgments
 This code borrows from: [EG3D](https://github.com/NVlabs/eg3d), [pSp](https://github.com/eladrich/pixel2style2pixel), [e4e](https://github.com/omertov/encoder4editing) ...  
